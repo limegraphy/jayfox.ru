@@ -8,16 +8,32 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>https://jayfox.ru/post/</loc>
+=======
+    <loc>https://jayfox.ru/post/hello1/</loc>
+>>>>>>> Stashed changes
     <lastmod>2020-09-05T21:34:53+03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< Updated upstream
+    <loc>https://jayfox.ru/about/</loc>
+=======
+    <loc>https://jayfox.ru/post/</loc>
+>>>>>>> Stashed changes
+    <lastmod>2020-09-05T21:34:53+03:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< Updated upstream
+=======
     <loc>https://jayfox.ru/about/</loc>
     <lastmod>2020-09-05T21:34:53+03:00</lastmod>
   </url>
   
   <url>
+>>>>>>> Stashed changes
     <loc>https://jayfox.ru/</loc>
     <lastmod>2020-09-05T21:34:53+03:00</lastmod>
   </url>

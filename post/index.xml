@@ -18,6 +18,18 @@
       
       <guid>https://jayfox.ru/post/hello/</guid>
       <description>Привет, Мир!</description>
+<<<<<<< Updated upstream
+=======
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://jayfox.ru/post/hello1/</link>
+      <pubDate>Sat, 05 Sep 2020 21:34:53 +0300</pubDate>
+      
+      <guid>https://jayfox.ru/post/hello1/</guid>
+      <description>Привет, Мир!</description>
+>>>>>>> Stashed changes
     </item>
     
   </channel>
